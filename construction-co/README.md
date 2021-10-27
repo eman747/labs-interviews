@@ -2,6 +2,8 @@
 
 A simple react and nodejs based web application to show companies with search and filter
 
+![construction-co](./construction-co.png)
+
 ## Run Application
 
 - In *server* directory:
