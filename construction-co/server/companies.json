@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Arup",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Engineering",
+    "city": "Berlin"
+  },
+  {
+    "name": "BAUER Group",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Engineering",
+    "city": "Wasserburg"
+  },
+  {
+    "name": "GOLDBECK",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Engineering",
+    "city": "Bielefeld"
+  },
+  {
+    "name": "Max Bogl",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Construction",
+    "city": "Sengenthal"
+  },
+  {
+    "name": "Zeppelin GmbH",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Excavation",
+    "city": "Bayern"
+  },
+  {
+    "name": "Vortex GmbH",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Plumbing",
+    "city": "Ludwigsburg"
+  },
+  {
+    "name": "Ischebeck Titan GmbH",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Plumbing",
+    "city": "Ennepetal"
+  },
+  {
+    "name": "Heitkamp",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Engineering",
+    "city": "Herne-Wanne"
+  },
+  {
+    "name": "GFR GmbH",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Building Automation",
+    "city": "Gera"
+  },
+  {
+    "name": "Bagela Construction",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Plumbing",
+    "city": "Kaltenkirchen"
+  },
+  {
+    "name": "Miltex GmbH",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Plumbing",
+    "city": "Viernheim"
+  },
+  {
+    "name": "Hochtief",
+    "logo": "https://placekitten.com/200/300",
+    "specialty": "Construction",
+    "city": "Essen"
+  }
+]
