@@ -58,7 +58,7 @@ export function Home() {
 		return false
 	}
 
-	const searchChangeHandler = (event: any) => {
+	const searchChangeHandler = (event: React.ChangeEvent<HTMLInputElement>) => {
 		setState({
 			...state,
 			searchText: event.target.value
