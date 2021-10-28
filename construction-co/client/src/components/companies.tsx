@@ -11,7 +11,7 @@ export function Companies({ companies }: CompaniesProps) {
 				<div className="cards" key={index}>
 					<article className="card">
 						<header>
-							<h2>{company.name}</h2>
+							<h2 className="company-name">{company.name}</h2>
 						</header>
 						<img src={company.logo} alt={company.name} />
 						<div className="row">
