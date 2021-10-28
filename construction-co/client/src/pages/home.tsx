@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 
 import Companies from '../components/companies'
 import AppLayout from '../components/layout'
+import {} from '../pages/company-list'
 
 type State = {
 	searchText: string
@@ -83,14 +84,17 @@ export function Home() {
 
 	return (
 		<AppLayout>
-			<form>
-				<input
-					className={'search placeholder'}
-					type="search"
-					onChange={searchChangeHandler}
-					placeholder="Search Companies..."
-				/>
-			</form>
+			<div>
+				<form>
+					<input
+						className={'search placeholder'}
+						type="search"
+						onChange={searchChangeHandler}
+						placeholder="Search Companies..."
+					/>
+				</form>
+			</div>
+
 			<div className="checkbox">
 				<label className="label">
 					<input
